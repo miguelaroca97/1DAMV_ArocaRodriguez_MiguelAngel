@@ -26,19 +26,19 @@ Por definición, un programa informático es una secuencia de instrucciones u ó
 
 El desarrollo de software pasa por las siguientes etapas:
 
-&#x09;- Planificación: Se definen objetivos, recursos y plazos del proyecto entre otros aspectos.
+- Planificación: Se definen objetivos, recursos y plazos del proyecto entre otros aspectos.
 
-&#x09;- Análisis: Se recopilan y se estudian detalladamente las necesidades del usuario y del cliente para saber que debe hacer el sistema.
+- Análisis: Se recopilan y se estudian detalladamente las necesidades del usuario y del cliente para saber que debe hacer el sistema.
 
-&#x09;- Diseño: Se planifica la arquitectura técnica, la interfaz, la base de datos y como se va a organizar los componentes del software.
+- Diseño: Se planifica la arquitectura técnica, la interfaz, la base de datos y como se va a organizar los componentes del software.
 
-&#x09;- Desarrollo: Se escribe el código fuente para convertir los diseños en un producto funcional.
+- Desarrollo: Se escribe el código fuente para convertir los diseños en un producto funcional.
 
-&#x09;- Pruebas o testing: Se revisa el software a fondo para encontrar y corregir errores.
+- Pruebas o testing: Se revisa el software a fondo para encontrar y corregir errores.
 
-&#x09;- Implementación o despliegue: Se lanza o se instala el sistema y se pone en marcha el entorno real para que los usuarios finales empiecen a utilizarlo.
+- Implementación o despliegue: Se lanza o se instala el sistema y se pone en marcha el entorno real para que los usuarios finales empiecen a utilizarlo.
 
-&#x09;- Mantenimiento: Fase continua donde se actualiza el programa, se corrigen fallos nuevos y se añaden mejoras con el tiempo.
+- Mantenimiento: Fase continua donde se actualiza el programa, se corrigen fallos nuevos y se añaden mejoras con el tiempo.
 
 
 
