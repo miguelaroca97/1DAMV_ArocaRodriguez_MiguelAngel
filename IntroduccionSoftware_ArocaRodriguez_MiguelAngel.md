@@ -1,8 +1,8 @@
-\# PRACTICA 1
+# PRACTICA 1
 
 
 
-\## 1. \*\*¿Qué es un programa informático?\*\*
+## 1. **¿Qué es un programa informático?**
 
 
 
@@ -10,7 +10,7 @@ Por definición, un programa informático es una secuencia de instrucciones u ó
 
 
 
-\## 2. \*\*¿Cuál es la diferencia entre código fuente, código objeto y código ejecutable?
+## 2. **¿Cuál es la diferencia entre código fuente, código objeto y código ejecutable?**
 
 
 
@@ -20,7 +20,7 @@ Por definición, un programa informático es una secuencia de instrucciones u ó
 
 
 
-\## 3. \*\*Cuáles son las etapas del desarrollo de software?\*\*
+## 3. **Cuáles son las etapas del desarrollo de software?**
 
 
 
@@ -42,17 +42,17 @@ El desarrollo de software pasa por las siguientes etapas:
 
 
 
-!\[Etapas del desarrollo de software](imagen/etapasdesarrollo.jpg)
+![Etapas del desarrollo de software](imagen/etapasdesarrollo.jpg)
 
 
 
-\### Enlace al repositorio
+### Enlace al repositorio
 
 https://github.com/miguelaroca97/1DAMV\_ArocaRodriguez\_MiguelAngel
 
 
 
-\#### FUENTES CONSULTADAS
+#### FUENTES CONSULTADAS
 
 
 
